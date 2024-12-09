@@ -1,0 +1,1 @@
+import{b as t,a as o}from"./index.757f950f.js";const e=o.create({baseURL:"http://api.sudot.net/eab"});var s=t(({app:a})=>{a.config.globalProperties.$axios=o,a.config.globalProperties.$api=e});export{e as api,s as default};
